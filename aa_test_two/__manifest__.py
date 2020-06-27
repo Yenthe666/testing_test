@@ -6,7 +6,7 @@
         Short description""",
 
     'description': """
-        Long description
+        Long description to explain a lot
     """,
 
     'author': "My Company",
