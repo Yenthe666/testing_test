@@ -6,7 +6,7 @@
         Short description""",
 
     'description': """
-        Long description to explain a lot
+        Long description to explain a lot about this module
     """,
 
     'author': "My Company",
