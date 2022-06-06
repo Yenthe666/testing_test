@@ -28,13 +28,13 @@
         'name': 'Extended support',
         'info': 'Extend the support/service on this app with an extra 60 days.',
         'price': 49.95,
-        'currency': 'EUR',
+        'reference': 'extended_support',
       },
       {
         'name': 'Installation service',
         'info': 'We will install and configure the app for you / with you.',
         'price': 24.99,
-        'currency': 'EUR',
+        'reference': 'installation_service',
       }
     ],
 
