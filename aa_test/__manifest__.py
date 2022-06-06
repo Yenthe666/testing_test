@@ -23,6 +23,20 @@
 
     # any module necessary for this one to work correctly
     'depends': ['sale', 'purchase', 'custom_module_xyz', 'aa_test_two', 'sale_ebay', 'web_studio'],
+    'services': [
+      {
+        'name': 'Extended support',
+        'info': 'Extend the support/service on this app with an extra 60 days.',
+        'price': 49.95,
+        'currency': 'EUR',
+      },
+      {
+        'name': 'Installation service',
+        'info': 'We will install and configure the app for you / with you.',
+        'price': 24.99,
+        'currency': 'EUR',
+      }
+    ]
 
     # always loaded
     'data': [
