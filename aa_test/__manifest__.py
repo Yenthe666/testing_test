@@ -36,7 +36,7 @@
         'price': 24.99,
         'currency': 'EUR',
       }
-    ]
+    ],
 
     # always loaded
     'data': [
